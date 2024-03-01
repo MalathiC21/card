@@ -1,0 +1,32 @@
+.flex ,.f1,.f2,.flex1 ,.flex2{
+	display:flex;
+}
+.image {
+	width:50%;
+}
+img {
+	width:650px;
+	height:500px;
+	margin-left:15px;
+}
+.content {
+	margin-left:30px;
+	margin-top:40px;
+	width:700px;
+}
+.icon{
+	color:orange;
+	font-size:25px;
+	margin-top:25px;
+}
+.happy{
+	margin-left:20px;
+	
+}
+.f2 {
+	margin-bottom:30px;
+}
+.flex2 {
+	margin-top:50px;
+	
+}
